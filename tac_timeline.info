@@ -1,0 +1,11 @@
+name = tac_timeline
+description = Drupal module to create vertical timeliner for Write 365 journal entries content
+package = Writing Center Tools
+core = 7.x
+version = 7.x-1.1
+
+stylesheets[all][] = /css/font-awesome.min.css
+
+dependencies[] = writing365
+
+project = "Write 365"
